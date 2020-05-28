@@ -4,4 +4,8 @@ asas
 sdasd
 sdsdsd i love you
 new line1
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> nb
